@@ -1,0 +1,3 @@
+User-agent: *
+Disallow: /img/profile.jpg
+Disallow: /img/profile@2x.jpg
