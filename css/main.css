@@ -14,3 +14,7 @@ body {
 .u-listStyleTypeNone {
     list-style-type: none !important;
 }
+
+.u-textAlignCenter {
+    text-align: center;
+}
